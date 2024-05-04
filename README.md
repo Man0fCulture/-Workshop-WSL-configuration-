@@ -2,7 +2,7 @@
 
 Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Quentin STOLL](https://github.com/QuentinStoll) for Epitech Students (May 2024)
 
-## What we will use during this Workshop
+## Requirement for this Workshop
 
 - Microsoft Store
 
