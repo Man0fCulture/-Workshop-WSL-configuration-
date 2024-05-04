@@ -8,7 +8,7 @@ Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Qu
 
 - [Docker Dekstop](https://www.docker.com/products/docker-desktop/)
 
-- Vs Code
+- VsCode
 
 - [Protocol SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/using-ssh-agent-forwarding)
 
