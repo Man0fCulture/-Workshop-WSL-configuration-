@@ -16,15 +16,27 @@ Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Qu
 
 If you already have it installed, you can skip it!
 
-Before starting, open PowerShell and use this command: `wsl --install`
+Before starting, open PowerShell and use this command: `wsl --install`.
 
 ### Step 1: Installation of the distro
 
 Go to the Microsoft Store and search for the distro you want; For this workshop we will be using Ubuntu but you can use any distribution you want!🗿
 
-Now You should use the Update command 
+Now You should use the Update command.
 
-### Step 2: Installation of 
+### Step 2: Generate your SSH key and link it to your Github
 
+For this Step [generate your SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and link it to your github.
 
+### Step 3: Install VsCode
+
+Now that your github is linked to your distro, you will need an IDE (integrated development environment🗿).
+
+Now install VsCode from the Microsoft Store.
+
+Once installed, **close your terminal and reopen it**.
+
+**Congratz!!** you have Vscode Installed
+
+![mellstroy](https://github.com/Man0fCulture/-Workshop-WSL-configuration-/assets/114578137/f04eb17b-790b-476d-a0a0-5414b80993a2)
 
