@@ -1,7 +1,15 @@
 # -Workshop-WSL-configuration-
 
-Workshop organized by Suleman MAQSOOD and Quentin STOLL  for Epitech Students (May 2024)
+Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Quentin STOLL](https://github.com/QuentinStoll) for Epitech Students (May 2024)
 
-[Suleman MAQSOOD](https://github.com/Man0fCulture)
+## What we will use during this Workshop
 
-[Quentin STOLL](https://github.com/QuentinStoll)
+- Microsoft Store
+
+- [Docker Dekstop](https://www.docker.com/products/docker-desktop/)
+
+- Vs Code
+
+- [Protocol SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/using-ssh-agent-forwarding)
+
+- 
