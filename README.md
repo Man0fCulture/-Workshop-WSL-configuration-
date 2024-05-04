@@ -15,6 +15,7 @@ Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Qu
 ## Part 1: Installation of WSL
 
 If you already have it installed, you can skip it!
+
 Before starting, open PowerShell and use this command: `wsl --install`
 
 ### Step 1: Installation of the distro
