@@ -36,7 +36,12 @@ Now install VsCode from the Microsoft Store.
 
 Once installed, **close your terminal and reopen it**.
 
-**Congratz!!** you have Vscode Installed
+**Congratz!!** You have Vscode Installed
 
 ![mellstroy](https://github.com/Man0fCulture/-Workshop-WSL-configuration-/assets/114578137/f04eb17b-790b-476d-a0a0-5414b80993a2)
+
+### Step 4: Install Package for Epitech
+
+- Install the gcc package with [Build Essential Package](https://itsfoss.com/build-essential-ubuntu/): `sudo apt install build-essential`
+
 
