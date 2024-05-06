@@ -24,6 +24,10 @@ Go to the Microsoft Store and search for the distro you want; For this workshop 
 
 Now You should use the Update command.
 
+Restart your computer
+
+If you have an ERROR you should activate the virtualisation of your windows in the windows enable
+
 ### Step 2: Generate your SSH key and link it to your Github
 
 For this Step [generate your SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and link it to your github.
