@@ -44,4 +44,5 @@ Once installed, **close your terminal and reopen it**.
 
 - Install the gcc package with [Build Essential Package](https://itsfoss.com/build-essential-ubuntu/): `sudo apt install build-essential`
 
+- To choose the [version of GCC](https://phoenixnap.com/kb/install-gcc-ubuntu) 
 
