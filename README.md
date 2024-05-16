@@ -63,4 +63,4 @@ Now that everything is installed you will be able to add practical plug-ins that
 
 Do you know Symlink ?
 
-Do you Know that epitech have an image of our friend Marvin
+I think it is better to use the image of our friend Marvin gived by Epitech if you want to be sure your code works with the moulie
