@@ -12,11 +12,10 @@ Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Qu
 
 - [Protocol SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/using-ssh-agent-forwarding)
 
-## Part 1: Installation of WSL
+### Step 0: Installation of WSL
 
+You want to switch between Fedeora and Windows or you want to work on a Linux environment while having access to windows programs, this WorkShop is for you!
 If you already have it installed, you can skip it!
-
-Before starting, open PowerShell and use this command: `wsl --install`.
 
 ### Step 1: Installation of the distro
 
@@ -30,7 +29,7 @@ If you have an ERROR you should activate the virtualisation of your windows in t
 
 ### Step 2: Generate your SSH key and link it to your Github
 
-For this Step [generate your SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and link it to your github.
+now that you have your linux distribution on window, if you want to use github i will have to link it, little hint, SSH key
 
 ### Step 3: Install VsCode
 
@@ -50,3 +49,11 @@ Once installed, **close your terminal and reopen it**.
 
 - To choose the [version of GCC](https://phoenixnap.com/kb/install-gcc-ubuntu) 
 
+### Step 5: Custom your linux
+Now that everything is installed you will be able to add practical plug-ins that any good developer must have. Here’s what you need to install (like a big one)
+
+- OH MY ZSH
+
+- powerlevel10k
+
+- Autocompletions / Autosuggestions
