@@ -15,7 +15,8 @@ Workshop organized by [Suleman MAQSOOD](https://github.com/Man0fCulture) and [Qu
 ### Step 0: Installation of WSL
 
 You want to switch between Fedeora and Windows or you want to work on a Linux environment while having access to windows programs, this WorkShop is for you!
-If you already have it installed, you can skip it!
+
+**If you already have it installed, you can skip it!**
 
 ### Step 1: Installation of the distro
 
