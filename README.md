@@ -30,7 +30,7 @@ If you have an ERROR you should activate the virtualisation of your windows in t
 
 ### Step 2: Generate your SSH key and link it to your Github
 
-now that you have your linux distribution on window, if you want to use github i will have to link it, little hint, SSH key
+Now that you have your linux distribution on window, if you want to use github i will have to link it, little hint, SSH key
 
 ### Step 3: Install VsCode
 
@@ -58,3 +58,7 @@ Now that everything is installed you will be able to add practical plug-ins that
 - powerlevel10k
 
 - Autocompletions / Autosuggestions
+
+### Step 6: Bonus
+
+Do you know Symlink ?
