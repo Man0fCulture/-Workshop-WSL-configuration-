@@ -62,3 +62,5 @@ Now that everything is installed you will be able to add practical plug-ins that
 ### Step 6: Bonus
 
 Do you know Symlink ?
+
+Do you Know that epitech have an image of our friend Marvin
